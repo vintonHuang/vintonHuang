@@ -17,9 +17,9 @@
 
 ### 🛠technology stack
 <ul>
-<li> 💻   JavaScript | HTML | CSS | Vue3 </li>
+<li> 💻   JavaScript | HTML | CSS | Vue | cocos creator </li>
 <li> 🌐   Node </li>
-<li> 🛢   Docker | Nginx  </li>
+<li> 🛢   Docker | Nginx | postman  </li>
 <li> 🔧   Visual Studio code | DevOps | Git </li>
 </ul>
 
