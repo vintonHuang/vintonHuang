@@ -1,4 +1,4 @@
- ### <div align="center"><font>Vinton :bouncing_ball_person:</font></div> 
+ ### <div align="center"><font>Vinton Huang :bouncing_ball_person:</font></div> 
  ---
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
