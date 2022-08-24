@@ -17,6 +17,10 @@
 
 ### 🛠technology stack
 <ul>
+<li> 💻   JavaScript | HTML | CSS | Vue3 </li>
+<li> 🌐   Node </li>
+<li> 🛢   Docker | Nginx  </li>
+<li> 🔧   Visual Studio code | DevOps | Git </li>
 </ul>
 
 
