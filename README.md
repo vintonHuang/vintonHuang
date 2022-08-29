@@ -20,7 +20,7 @@
 
 <br />
 <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="400"/>
-### 👨🏻‍💻 About Me
+👨🏻‍💻 About Me
 <ul>
 <li>🍃 热衷新技术，追求新技术，并应用新技术到实际的项目中</li>
 <li>💧 团队风格，创新、交流、共同成长</li>
