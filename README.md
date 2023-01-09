@@ -44,6 +44,10 @@
         <img width="430"
             src="https://github-readme-stats.vercel.app/api/pin/?username=sunniejs&repo=vue-h5-template&theme=tokyonight" />
     </a>
+   <a href="https://github.com/vbenjs/vue-vben-admin.git">
+        <img width="430"
+            src="https://github-readme-stats.vercel.app/api/pin/?username=vbenjs&repo=vue-vben-admin&theme=tokyonight" />
+    </a>
 </p>
 
 ### GitHub Stats
